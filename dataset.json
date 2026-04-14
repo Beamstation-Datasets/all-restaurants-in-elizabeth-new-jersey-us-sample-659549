@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Elizabeth in the Mid-Atlantic with a population of over 137k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Elizabeth, New Jersey, US",
+  "export_job_id": "da55192f-4e3c-4b1a-9d7d-1a8e864b8fcb",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 659549,
+  "location_name": "Elizabeth",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-elizabeth-new-jersey-us-sample-659549",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/659549/beamstation_659549_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 59,
+  "sample_sha256": "d57d91d6d869631d2b89c324f4cdda5458624aaef6ce7a08aa073d12133ca5f3",
+  "sample_size_bytes": 209712,
+  "total_records": 590,
+  "updated_at": "2026-04-07T10:39:29.674667+00:00"
+}
