@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a793a70f-f2cb-489d-a1f2-ce06585b483d",
+  "export_job_id": "1c9f41e0-0bef-4ca1-b93d-66bcf94d901a",
   "id_short": 659549,
-  "published_at": "2026-04-17T19:50:45Z",
+  "published_at": "2026-04-21T19:40:01Z",
   "repo_name": "all-restaurants-in-elizabeth-new-jersey-us-sample-659549",
   "sample_asset_name": "beamstation_659549_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/659549/beamstation_659549_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 58,
-  "sample_sha256": "df5676df0c739b2dbbe28f9f44329e3f6dbf762df3172a07d861b148edc48ab4",
-  "sample_size_bytes": 207844,
-  "total_records": 580
+  "sample_records": 56,
+  "sample_sha256": "d3ede4ec1067a7e728af85e42f3c1e81b5ba24a2d0fbca253f4c23d02dd4fffb",
+  "sample_size_bytes": 202535,
+  "total_records": 569
 }
