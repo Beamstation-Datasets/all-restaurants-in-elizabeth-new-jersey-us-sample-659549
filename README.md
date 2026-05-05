@@ -1,6 +1,6 @@
 # All Restaurants in Elizabeth, New Jersey, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 60 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `659549` |
 | Location | Elizabeth |
 | Category | Restaurants |
-| Full dataset size | 445 records |
-| Free sample size | 44 records (9.89%) |
-| Last export | 2026-04-28T11:18:57.368704+00:00 |
+| Full dataset size | 601 records |
+| Free sample size | 60 records (9.98%) |
+| Last export | 2026-05-05T13:55:02.722035+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-elizabeth-new-jersey-us-sample-659549/releases/download/sample-latest/beamstation_659549_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
